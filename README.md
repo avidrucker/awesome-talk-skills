@@ -9,6 +9,10 @@ A small index of my public [Claude Code](https://claude.com/claude-code) skill f
 - **[yegor-pm-skills](https://github.com/avidrucker/yegor-pm-skills)** — eight Claude Code skills distilled from Yegor Bugayenko's XDSD methodology: practical PM rules for solo devs and AI agents.
 - **[talk-distill-skills](https://github.com/avidrucker/talk-distill-skills)** — pipeline + Claude Code skill family for distilling YouTube talks into transcripts and summaries.
 
+## Skills by others I use
+
+- **[mattpocock/skills](https://github.com/mattpocock/skills)** — Matt Pocock's Claude Code skills. Not mine, but good and I use them.
+
 ---
 
 Maintained by [@avidrucker](https://github.com/avidrucker).
